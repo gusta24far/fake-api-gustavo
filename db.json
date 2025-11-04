@@ -4,13 +4,13 @@
       "nome": "ibuprofeno",
       "dose": "de 20 gotas (200mg) a 80 gotas (800mg)",
       "descricao": "O Ibuprofeno é um medicamento anti- inflamatório....",
-      "vezes": "de 2 a 3 vezes por dia.",
+      "frequencia": "de 2 a 3 vezes por dia.",
     },
     {
       "nome": "ibuprofeno2",
       "dose": "de 20 gotas (200mg) a 80 gotas (800mg)",
       "descricao": "O Ibuprofeno é um medicamento anti- inflamatório....",
-      "vezes": "de 2 a 3 vezes por dia.",
+      "frequencia": "de 2 a 3 vezes por dia.",
     }
   ]
 }
